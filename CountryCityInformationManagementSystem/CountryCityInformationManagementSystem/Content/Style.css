@@ -1,0 +1,25 @@
+﻿
+.image {
+    width: 1140px;
+    height: 100px;
+}
+
+p{
+    color:grey;
+    font-size: 80%;
+    text-align: center;
+}
+
+footer{
+
+    margin-top: 20px;
+	background-color: #F2F2F2;
+    margin-left: 104px;
+    margin-right: 104px;
+}
+
+.navtwo ul li{
+	text-decoration: none;
+	display: inline;
+	font-size: 100%;
+}
